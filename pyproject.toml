@@ -1,18 +1,14 @@
-[build-system]
-requires = ["hatchling"]
-build-backend = "hatchling.build"
-
 [project]
 name = "example_package_nowak"
-version = "0.0.1
+version = "0.0.1"
 authors = [
-  { name="Nowak", email="" },
+  { name="nowak", email="fds@fdsfdasfda.com" },
 ]
-description = "Nowak example package"
+description = "Nowak small example package"
 readme = "README.md"
 requires-python = ">=3.7"
 classifiers = [
     "Programming Language :: Python :: 3",
-    "License :: OSI Approvedgit :: MIT License",
+    "License :: OSI Approved :: MIT License",
     "Operating System :: OS Independent",
 ]
